@@ -8,6 +8,7 @@
 My most recent project is a Strava data extraction, processing, and visualization pipeline that built with Python and Power BI to analyze my running data. It has allowed me to analyze recent & historical trends of my running performance
 in an effort to gain insights and improvements in my road racing career. I am an accomplished marathon runner and am eager to find any edge that will improve my performance!
 
+![My visualized Strava data](https://github.com/user-attachments/assets/fc452f7c-74bb-46f8-882c-c419da843448)
 
 
 <p align="left">
