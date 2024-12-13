@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **ross.nelson621@gmail.com**
 
+My most recent project is a Strava data extraction, processing, and visualization pipeline that built with Python and Power BI to analyze my running data. It has allowed me to analyze recent & historical trends of my running performance
+in an effort to gain insights and improvements in my road racing career. I am an accomplished marathon runner and am eager to find any edge that will improve my performance!
+
+
 
 <p align="left">
 </p>
